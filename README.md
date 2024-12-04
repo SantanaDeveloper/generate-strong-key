@@ -40,7 +40,7 @@ sudo apt-get install xclip
 Execute o script diretamente no terminal:
 
 ```bash
-python secret_key_generator.py
+python generator.py
 ```
 
 ### Saída
